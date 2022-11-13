@@ -1,0 +1,74 @@
+<http://localhost:8080/source/Campo%20da%20tennis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Impianto%20sportivo%20multidisciplinare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Impianto%20sportivo%20multidisciplinare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Piscina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Impianto%20sportivo%20multidisciplinare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Impianto%20sportivo%20multidisciplinare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Gruppo%20Sportivo%20Canova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsOrganization> .
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Bocciodromo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Società%20Bocciofila%20Ana%20Trento%20Sud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsOrganization> .
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Bocciodromo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Impianto%20sportivo%20multidisciplinare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Centro%20di%20equitazione> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Impianto%20sportivo%20multidisciplinare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Impianto%20sportivo%20multidisciplinare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Campo%20da%20calcio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Piscina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Impianto%20sportivo%20multidisciplinare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Poligono%20di%20tiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Impianto%20sportivo%20multidisciplinare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Piscina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Campo%20da%20calcio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Campo%20da%20calcio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Campo%20da%20tennis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Impianto%20sportivo%20multidisciplinare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
+<http://localhost:8080/source/Campo%20da%20tennis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+
+<http://localhost:8080/source/Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Place> .
+<http://localhost:8080/source/Campo%20da%20calcio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility> .
+
