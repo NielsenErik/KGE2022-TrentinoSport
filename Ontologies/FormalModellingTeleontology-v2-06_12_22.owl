@@ -385,8 +385,8 @@
                 <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#ds:Region"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:label xml:lang="en">Everything</rdfs:label>
         <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label xml:lang="en">Everything</rdfs:label>
     </owl:Class>
     
 
@@ -477,6 +477,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#PublicTransport -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#PublicTransport">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/Trentino-Sports#schema:Organisation"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#ds:LocatedIn"/>
@@ -725,8 +726,8 @@
                 <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#TrainStation"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:label xml:lang="en">ds:Region</rdfs:label>
         <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label xml:lang="en">ds:Region</rdfs:label>
     </owl:Class>
 </rdf:RDF>
 
