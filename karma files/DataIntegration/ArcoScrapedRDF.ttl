@@ -1,0 +1,67 @@
+<http://localhost:8080/source/300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/300> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464/517000" .
+<http://localhost:8080/source/300> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LOC. PRABI" .
+<http://localhost:8080/source/300> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Piscina Olimpionica" .
+<http://localhost:8080/source/300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/300> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ARCO" .
+<http://localhost:8080/source/300> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Struttura sportiva" .
+<http://localhost:8080/source/300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/301> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro sportivo Pomerio- Campi da calcio e pista di atletica leggera" .
+<http://localhost:8080/source/301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/301> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Struttura sportiva" .
+<http://localhost:8080/source/301> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "VIA POMERIO N.7" .
+<http://localhost:8080/source/301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/301> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464/516181" .
+<http://localhost:8080/source/301> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ARCO" .
+
+<http://localhost:8080/source/302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/302> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ARCO" .
+<http://localhost:8080/source/302> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Stadio di Arrampicata" .
+<http://localhost:8080/source/302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/302> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LOC. PRABI" .
+<http://localhost:8080/source/302> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Struttura sportiva" .
+
+<http://localhost:8080/source/303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/303> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ARCO" .
+<http://localhost:8080/source/303> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "VIA CAVALLO N.1" .
+<http://localhost:8080/source/303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/303> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo Ricreativo di S.Giorgio - Loc. S.Giorgio" .
+
+<http://localhost:8080/source/304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/304> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ARCO" .
+<http://localhost:8080/source/304> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro Campi da Tennis" .
+<http://localhost:8080/source/304> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464/516824" .
+<http://localhost:8080/source/304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/304> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Struttura sportiva" .
+<http://localhost:8080/source/304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/304> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LOC. POMERIO N.11" .
+
+<http://localhost:8080/source/305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/305> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo Sportivo Oltresarca - Loc. Bolognano" .
+<http://localhost:8080/source/305> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Struttura sportiva" .
+<http://localhost:8080/source/305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/305> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "346/1196233 (Sig. Massimo Baldessarini - Presidente S.S. Stivo)" .
+<http://localhost:8080/source/305> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ARCO" .
+<http://localhost:8080/source/305> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LOC. GAMBOR" .
+
+<http://localhost:8080/source/306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/306> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464/519648" .
+<http://localhost:8080/source/306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/306> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ARCO" .
+<http://localhost:8080/source/306> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "VIA FOSSA N. 14/B" .
+<http://localhost:8080/source/306> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo Sportivo di Romarzollo" .
+<http://localhost:8080/source/306> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Struttura sportiva" .
+

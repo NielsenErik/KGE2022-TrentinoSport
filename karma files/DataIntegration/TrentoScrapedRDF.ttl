@@ -1,0 +1,356 @@
+<http://localhost:8080/source/100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/ATA%20Battisti%20-%20Associazione%20Trentina%20Atletica%20"Cesare%20Battisti"> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 921515" .
+<http://localhost:8080/source/ATA%20Battisti%20-%20Associazione%20Trentina%20Atletica%20"Cesare%20Battisti"> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://tennis.atatrento.it/portali.asp" .
+<http://localhost:8080/source/ATA%20Battisti%20-%20Associazione%20Trentina%20Atletica%20"Cesare%20Battisti"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/100> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/ATA%20Battisti%20-%20Associazione%20Trentina%20Atletica%20"Cesare%20Battisti"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/100> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://tennis.atatrento.it/portali.asp" .
+<http://localhost:8080/source/100> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "via Fersina, 21" .
+<http://localhost:8080/source/100> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro tennis di via Fersina" .
+<http://localhost:8080/source/100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/100> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Campo da tennis" .
+<http://localhost:8080/source/ATA%20Battisti%20-%20Associazione%20Trentina%20Atletica%20"Cesare%20Battisti"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/ATA%20Battisti%20-%20Associazione%20Trentina%20Atletica%20"Cesare%20Battisti"> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/100> .
+
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Via Fersina 11, 38123" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "www.asis.trento.it" .
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Blm Group Arena - Palestre" .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Impianto sportivo multidisciplinare" .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "www.asis.trento.it" .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/30> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+
+<http://localhost:8080/source/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/27> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Strada delle Caserme 3-5-7-9 38123 Monte Bondone" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/27> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Impianto sportivo multidisciplinare" .
+<http://localhost:8080/source/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/27> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/centro-sci-da-fondo-viote-monte-bondone_9378_s/" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 948105" .
+<http://localhost:8080/source/27> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro sci da fondo Viote Monte Bondone" .
+<http://localhost:8080/source/27> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/centro-sci-da-fondo-viote-monte-bondone_9378_s/" .
+<http://localhost:8080/source/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/27> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+
+<http://localhost:8080/source/103> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "via Bettini 7, 38123" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/103> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/centro-sportivo-ito-del-favero-madonna-bianca_9376_s/" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/103> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Impianto sportivo Ito del Favero (Madonna Bianca) - Piscine" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/centro-sportivo-ito-del-favero-madonna-bianca_9376_s/" .
+<http://localhost:8080/source/103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/103> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Piscina" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812, Cassa piscine Ito Del Favero 0461.390785" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/103> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/103> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+
+<http://localhost:8080/source/104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/104> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "www.asis.trento.it/it/impianti/centro-sportivo-ito-del-favero-madonna-bianca" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/104> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "via Bettini 7, 38123" .
+<http://localhost:8080/source/104> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Impianto sportivo multidisciplinare" .
+<http://localhost:8080/source/104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/104> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "www.asis.trento.it/it/impianti/centro-sportivo-ito-del-favero-madonna-bianca" .
+<http://localhost:8080/source/104> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Impianto sportivo Ito del Favero (Madonna Bianca) - Palestre" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/104> .
+
+<http://localhost:8080/source/G.S.%20Argentario%20ASD> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.gsargentario.it/it/" .
+<http://localhost:8080/source/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/G.S.%20Argentario%20ASD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/G.S.%20Argentario%20ASD> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "389 4794559" .
+<http://localhost:8080/source/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/G.S.%20Argentario%20ASD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/8> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro sportivo comunale sito in via Ponte Alto a Cognola" .
+<http://localhost:8080/source/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/8> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/8> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Impianto sportivo multidisciplinare" .
+<http://localhost:8080/source/G.S.%20Argentario%20ASD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/G.S.%20Argentario%20ASD> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/8> .
+<http://localhost:8080/source/8> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Via Ponte Alto, 79" .
+<http://localhost:8080/source/8> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.gsargentario.it/it/" .
+
+<http://localhost:8080/source/9> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/9> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Bocciodromo" .
+<http://localhost:8080/source/9> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "via Canova, 34" .
+<http://localhost:8080/source/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/9> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Bocciodromo comunale di via Canova a Trento" .
+
+<http://localhost:8080/source/2> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "via Fermi, 35" .
+<http://localhost:8080/source/Bocciofila%20Trento%20Sud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/Bocciofila%20Trento%20Sud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/2> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Bocciodromo comunale sito in via Fermi a Trento" .
+<http://localhost:8080/source/Bocciofila%20Trento%20Sud> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/2> .
+<http://localhost:8080/source/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/2> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/2> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Bocciodromo" .
+<http://localhost:8080/source/Bocciofila%20Trento%20Sud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+
+<http://localhost:8080/source/26> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/palaghiaccio_9377_s/" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812, cassa PalaGhiaccio  0461 391854" .
+<http://localhost:8080/source/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/palaghiaccio_9377_s/" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/26> .
+<http://localhost:8080/source/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/26> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Via Fersina 15, 38123" .
+<http://localhost:8080/source/26> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Palaghiaccio" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/26> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Impianto sportivo multidisciplinare" .
+<http://localhost:8080/source/26> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro di equitazione comunale" .
+<http://localhost:8080/source/Circolo%20Ippico%20La%20Roccia> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "https://sites.google.com/site/scuolaequitazionelaroccia/" .
+<http://localhost:8080/source/Circolo%20Ippico%20La%20Roccia> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/19> .
+<http://localhost:8080/source/Circolo%20Ippico%20La%20Roccia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Centro di equitazione" .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Località Pianizza di Villazzano" .
+<http://localhost:8080/source/Circolo%20Ippico%20La%20Roccia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "https://sites.google.com/site/scuolaequitazionelaroccia/" .
+<http://localhost:8080/source/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Circolo%20Ippico%20La%20Roccia> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "348 2977880" .
+<http://localhost:8080/source/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/Circolo%20Ippico%20La%20Roccia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812" .
+<http://localhost:8080/source/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "www.asis.trento.it" .
+<http://localhost:8080/source/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo scuola atletica leggera C. Covi e E. Postal" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/22> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "www.asis.trento.it" .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Impianto sportivo multidisciplinare" .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "piazzale Camillo Rusconi,5 38121" .
+
+<http://localhost:8080/source/111> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Via Fogazzaro 4, 38123" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812" .
+<http://localhost:8080/source/111> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Impianto sportivo multidisciplinare" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/111> .
+<http://localhost:8080/source/111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/centro-sportivo-g--manazzon_9369_s/" .
+<http://localhost:8080/source/111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/111> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/centro-sportivo-g--manazzon_9369_s/" .
+<http://localhost:8080/source/111> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/111> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Impianto sportivo G. Manazzon - Palestre" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812" .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/stadio-briamasco_9379_s/" .
+<http://localhost:8080/source/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/23> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/stadio-briamasco_9379_s/" .
+<http://localhost:8080/source/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Stadio Briamasco" .
+<http://localhost:8080/source/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Via R. da Sanseverino, 41" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Campo da calcio" .
+
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/centro-sportivo-trento-nord_9368_s/" .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/centro-sportivo-trento-nord_9368_s/" .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro sportivo Trento Nord - piscine comunali" .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/25> .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "via 4 Novembre 23/4, 38121" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Piscina" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812, Cassa piscine Gardolo 0461.956118" .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Via Fersina 11, 38123" .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812" .
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/palatrento_9419_s/" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Impianto sportivo multidisciplinare" .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/30> .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Blm Group Arena - Palazzetto" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/palatrento_9419_s/" .
+
+<http://localhost:8080/source/14> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/Tiro%20a%20Segno%20Nazionale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/Tiro%20a%20Segno%20Nazionale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Tiro%20a%20Segno%20Nazionale> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 990149" .
+<http://localhost:8080/source/14> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Località Soraval di Cadine" .
+<http://localhost:8080/source/14> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Poligono di tiro" .
+<http://localhost:8080/source/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Tiro%20a%20Segno%20Nazionale> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/14> .
+<http://localhost:8080/source/14> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Poligono di tiro" .
+<http://localhost:8080/source/Tiro%20a%20Segno%20Nazionale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812" .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/centro-sportivo-trento-nord_9368_s/" .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/centro-sportivo-trento-nord_9368_s/" .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro sportivo Trento Nord - palazzetto" .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Impianto sportivo multidisciplinare" .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/25> .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Via IV Novembre 23/4," .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812, Cassa Piscine  G. Manazzon 0461.924248" .
+<http://localhost:8080/source/117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/117> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Impianto sportivo G. Manazzon (ex Fogazzaro) - Piscine" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/117> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/centro-sportivo-g--manazzon_9369_s/" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/117> .
+<http://localhost:8080/source/A.S.I.S.> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.asis.trento.it/it/impianti/centro-sportivo-g--manazzon_9369_s/" .
+<http://localhost:8080/source/117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/117> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Via Fogazzaro 4, 38123" .
+<http://localhost:8080/source/117> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/117> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Piscina" .
+<http://localhost:8080/source/A.S.I.S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+
+<http://localhost:8080/source/Associazione%20Calcio%20Femminile%20Trento%20Clarentia> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/12> .
+<http://localhost:8080/source/Associazione%20Calcio%20Femminile%20Trento%20Clarentia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/Associazione%20Calcio%20Femminile%20Trento%20Clarentia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo da calcio Man Malpensada" .
+<http://localhost:8080/source/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/Associazione%20Calcio%20Femminile%20Trento%20Clarentia> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 913467" .
+<http://localhost:8080/source/Associazione%20Calcio%20Femminile%20Trento%20Clarentia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Campo da calcio" .
+<http://localhost:8080/source/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/12> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "via Bettini, 13" .
+
+<http://localhost:8080/source/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/15> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/ASD%20Solteri%20San%20Giorgio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/ASD%20Solteri%20San%20Giorgio> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/15> .
+<http://localhost:8080/source/15> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "via Lunelli località Solteri - Trento" .
+<http://localhost:8080/source/ASD%20Solteri%20San%20Giorgio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/15> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.solterisangiorgio.it/ " .
+<http://localhost:8080/source/15> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Campo da calcio" .
+<http://localhost:8080/source/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/ASD%20Solteri%20San%20Giorgio> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "http://www.solterisangiorgio.it/ " .
+<http://localhost:8080/source/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/15> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo da calcio in località Solteri" .
+<http://localhost:8080/source/ASD%20Solteri%20San%20Giorgio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+
+<http://localhost:8080/source/10> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro tennis di piazza Venezia" .
+<http://localhost:8080/source/10> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/Circolo%20Tennis%20Trento%20-%20Scuola%20Federale%20di%20Tennis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Circolo%20Tennis%20Trento%20-%20Scuola%20Federale%20di%20Tennis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/10> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Campo da tennis" .
+<http://localhost:8080/source/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Circolo%20Tennis%20Trento%20-%20Scuola%20Federale%20di%20Tennis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/Circolo%20Tennis%20Trento%20-%20Scuola%20Federale%20di%20Tennis> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 238932" .
+<http://localhost:8080/source/10> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Piazza Venezia 41/1" .
+<http://localhost:8080/source/Circolo%20Tennis%20Trento%20-%20Scuola%20Federale%20di%20Tennis> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/10> .
+<http://localhost:8080/source/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+
+<http://localhost:8080/source/7> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Via Valnigra - Villazzano" .
+<http://localhost:8080/source/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/7> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Impianto sportivo multidisciplinare" .
+<http://localhost:8080/source/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/7> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/7> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro sportivo \"Don Onorio Spada\"" .
+
+<http://localhost:8080/source/5> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Campo da tennis" .
+<http://localhost:8080/source/Circolo%20Tennis%20Calisio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/5> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "via Pradiscola n. 5 - Martignano" .
+<http://localhost:8080/source/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/5> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/5> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro tennis sito in località Pradiscola a Martignano" .
+<http://localhost:8080/source/Circolo%20Tennis%20Calisio> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/5> .
+<http://localhost:8080/source/Circolo%20Tennis%20Calisio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/Circolo%20Tennis%20Calisio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/Circolo%20Tennis%20Calisio> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 820040" .
+
+<http://localhost:8080/source/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Unione%20Sportiva%20Sardagna%20-%20Associazione%20sportiva%20dilettantistica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/17> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "via alla Césa Vècia - Sardagna - Trento" .
+<http://localhost:8080/source/Unione%20Sportiva%20Sardagna%20-%20Associazione%20sportiva%20dilettantistica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/Unione%20Sportiva%20Sardagna%20-%20Associazione%20sportiva%20dilettantistica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/17> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/17> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo da calcio in località Sardagna" .
+<http://localhost:8080/source/Unione%20Sportiva%20Sardagna%20-%20Associazione%20sportiva%20dilettantistica> <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/17> .
+<http://localhost:8080/source/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/17> <http://knowdive.disi.unitn.it/etype#has_typeOfFacility_GID-17982_Type-17982> "Campo da calcio" .
+<http://localhost:8080/source/Unione%20Sportiva%20Sardagna%20-%20Associazione%20sportiva%20dilettantistica> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "340 5223235" .
+

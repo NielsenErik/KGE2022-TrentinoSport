@@ -1,0 +1,891 @@
+<http://localhost:8080/source/200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/200> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/200> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Aquila Basket Trento 2013 S.r.l." .
+<http://localhost:8080/source/200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/200> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA GUARDINI ROMANO, 42" .
+<http://localhost:8080/source/200> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/200> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/200> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 439684" .
+
+<http://localhost:8080/source/201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/201> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Palaghiaccio Palafolgaria" .
+<http://localhost:8080/source/201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/201> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/201> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/201> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 720337" .
+<http://localhost:8080/source/201> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA NAZIONI UNITE, 46" .
+<http://localhost:8080/source/201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/201> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "FOLGARIA" .
+
+<http://localhost:8080/source/202> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Break Point Golf Club A.S.D." .
+<http://localhost:8080/source/202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/202> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "347 4647351" .
+<http://localhost:8080/source/202> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '08:30 - 21:00', 'Tuesday': '08:30 - 21:00', 'Wednesday': '08:30 - 21:00', 'Thursday': '08:30 - 21:00', 'Friday': '08:30 - 21:00', 'Saturday': '08:30 - 21:00', 'Sunday': '08:30 - 21:00'}" .
+<http://localhost:8080/source/202> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " LOCALITÀ MASO GRILLO, 4" .
+<http://localhost:8080/source/202> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "PERGINE" .
+<http://localhost:8080/source/202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/202> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+
+<http://localhost:8080/source/203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/203> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/203> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIALE OLIVETTI ADRIANO, 4" .
+<http://localhost:8080/source/203> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/203> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Aquila Basket Trento 2013 S.r.l." .
+<http://localhost:8080/source/203> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 525310" .
+<http://localhost:8080/source/203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/203> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+
+<http://localhost:8080/source/204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/204> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/204> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/204> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '00:00 - 24:00', 'Tuesday': '00:00 - 24:00', 'Wednesday': '00:00 - 24:00', 'Thursday': '00:00 - 24:00', 'Friday': '00:00 - 24:00', 'Saturday': '00:00 - 24:00', 'Sunday': '00:00 - 24:00'}" .
+<http://localhost:8080/source/204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/204> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA FILARI LONGHI, 2/A" .
+<http://localhost:8080/source/204> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812" .
+<http://localhost:8080/source/204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/204> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Navarini" .
+
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '09:00 - 19:00', 'Tuesday': '09:00 - 19:00', 'Wednesday': '09:00 - 19:00', 'Thursday': '09:00 - 19:00', 'Friday': '09:00 - 19:00', 'Saturday': '09:00 - 19:00', 'Sunday': '09:00 - 19:00'}" .
+<http://localhost:8080/source/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 913143" .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Circolo Ippico La Roccia" .
+<http://localhost:8080/source/19> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " LOCALITÀ PIANIZA, 33" .
+
+<http://localhost:8080/source/10> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 238932" .
+<http://localhost:8080/source/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/10> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Circolo Tennis" .
+<http://localhost:8080/source/10> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " PIAZZA VENEZIA, 41/1" .
+<http://localhost:8080/source/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/10> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/10> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/10> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '09:00 - 23:00', 'Tuesday': '09:00 - 23:00', 'Wednesday': '09:00 - 23:00', 'Thursday': '09:00 - 23:00', 'Friday': '09:00 - 23:00', 'Saturday': '09:00 - 23:00', 'Sunday': '09:00 - 19:00'}" .
+
+<http://localhost:8080/source/207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/207> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '09:00 - 23:00', 'Tuesday': '09:00 - 23:00', 'Wednesday': '09:00 - 23:00', 'Thursday': '09:00 - 23:00', 'Friday': '09:00 - 23:00', 'Saturday': '09:00 - 18:00', 'Sunday': '09:00 - 13:00'}" .
+<http://localhost:8080/source/207> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/207> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro Universitario Sportivo Trento Ass.Sp.Dilettantistica" .
+<http://localhost:8080/source/207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/207> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "MATTARELLO" .
+<http://localhost:8080/source/207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/207> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 944356" .
+<http://localhost:8080/source/207> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA DELLE REGOLE, 101" .
+<http://localhost:8080/source/207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+
+<http://localhost:8080/source/208> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/208> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '06:30 - 21:30', 'Tuesday': '06:30 - 21:30', 'Wednesday': '06:30 - 21:30', 'Thursday': '06:30 - 21:30', 'Friday': '06:30 - 21:30', 'Saturday': '06:30 - 21:30', 'Sunday': '06:30 - 21:30'}" .
+<http://localhost:8080/source/208> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " PIAZZA DEL DUOMO, 30" .
+<http://localhost:8080/source/208> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro Pilates e Gyrotonic" .
+<http://localhost:8080/source/208> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/208> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "339 8683083" .
+<http://localhost:8080/source/208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/209> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo sportivo San Bartolomeo" .
+<http://localhost:8080/source/209> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA DEGLI OLMI" .
+<http://localhost:8080/source/209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/209> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/209> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 992990" .
+<http://localhost:8080/source/209> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/209> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+
+<http://localhost:8080/source/210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/210> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/210> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro Sportivo Di Trilacum" .
+<http://localhost:8080/source/210> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/210> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '08:00 - 20:00', 'Tuesday': '08:00 - 20:00', 'Wednesday': '08:00 - 20:00', 'Thursday': '08:00 - 20:00', 'Friday': '08:00 - 20:00', 'Saturday': '08:00 - 20:00', 'Sunday': '08:00 - 20:00'}" .
+<http://localhost:8080/source/210> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 866471" .
+<http://localhost:8080/source/210> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA 12 SETTEMBRE, 6" .
+<http://localhost:8080/source/210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/211> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "06 992990" .
+<http://localhost:8080/source/211> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/211> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/211> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/211> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo Sportivo Cristo Re" .
+<http://localhost:8080/source/211> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA LAVISOTTO, 41" .
+
+<http://localhost:8080/source/212> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "POVO" .
+<http://localhost:8080/source/212> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Impianti sportivi e ricreativi - attrezzature e costruzione" .
+<http://localhost:8080/source/212> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Studio Tecnico Associato Gasperotti di Ing. Dott. Gasperotti Luca ed Ing. Dott. Gasperotti Giorgio" .
+<http://localhost:8080/source/212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/212> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 811409" .
+<http://localhost:8080/source/212> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " SALITA S. AGATA, 23" .
+<http://localhost:8080/source/212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/212> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+
+<http://localhost:8080/source/213> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA BRUNNER GIUSEPPE, 9" .
+<http://localhost:8080/source/213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/213> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/213> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Associazione Sportiva Sportivando" .
+<http://localhost:8080/source/213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/213> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/213> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 091706" .
+<http://localhost:8080/source/213> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/214> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Aquila Basket Trento 2013 S.r.l." .
+<http://localhost:8080/source/214> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/214> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/214> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/214> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 262253" .
+<http://localhost:8080/source/214> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA ZARA, 14" .
+<http://localhost:8080/source/214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "A.C. Trento Sportiva Dilettantistica" .
+<http://localhost:8080/source/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 263470" .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA ROBERTO DA SANSEVERINO, 41" .
+<http://localhost:8080/source/23> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+
+<http://localhost:8080/source/216> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 950811" .
+<http://localhost:8080/source/216> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "GARDOLO" .
+<http://localhost:8080/source/216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/216> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " LOCALITA' SPINI" .
+<http://localhost:8080/source/216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/216> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/216> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/216> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Woody Valley S.r.l." .
+<http://localhost:8080/source/216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/217> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA CHINI EUSEBIO, 59" .
+<http://localhost:8080/source/217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/217> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/217> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 916579" .
+<http://localhost:8080/source/217> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/217> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/217> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Aquila Basket Trento 2013 S.r.l." .
+<http://localhost:8080/source/217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+
+<http://localhost:8080/source/218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/218> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/218> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/218> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "MONTE" .
+<http://localhost:8080/source/218> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Maestri di Sci e Snowboard Cristallo A.T.P." .
+<http://localhost:8080/source/218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/218> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " LOCALITA' VASON, 110" .
+<http://localhost:8080/source/218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/218> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "380 6328814" .
+
+<http://localhost:8080/source/73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/73> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/73> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Gym \"G. Pascoli\"" .
+<http://localhost:8080/source/73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/73> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA ZNOJMO, 24" .
+<http://localhost:8080/source/73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/73> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/73> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 992990" .
+<http://localhost:8080/source/73> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+
+<http://localhost:8080/source/220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/220> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Fitness Sport Club" .
+<http://localhost:8080/source/220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/220> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " 22, VIA DELLE GHIAIE" .
+<http://localhost:8080/source/220> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/220> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/220> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "centri e corsi sportivi" .
+<http://localhost:8080/source/220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/220> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 92444" .
+<http://localhost:8080/source/220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+
+<http://localhost:8080/source/221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/221> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/221> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/221> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Palestra Povo" .
+<http://localhost:8080/source/221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/221> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/221> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812" .
+<http://localhost:8080/source/221> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA DEI MASI, 6" .
+<http://localhost:8080/source/221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/222> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA FOGAZZARO ANTONIO, 4" .
+<http://localhost:8080/source/222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/222> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/222> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "S.S. Buonconsiglio Nuoto" .
+<http://localhost:8080/source/222> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/222> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 910464" .
+<http://localhost:8080/source/222> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+
+<http://localhost:8080/source/223> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA DELLA ROGGIA, 45" .
+<http://localhost:8080/source/223> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/223> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/223> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Associazione Polisportiva Dilettantistica Kosmos Rovereto" .
+<http://localhost:8080/source/223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/223> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 942281" .
+<http://localhost:8080/source/223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/223> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ROVERETO" .
+
+<http://localhost:8080/source/224> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/224> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/224> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Ice Rink Pine' S.r.l." .
+<http://localhost:8080/source/224> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 554167" .
+<http://localhost:8080/source/224> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "BASELGA" .
+<http://localhost:8080/source/224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/224> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA DELLO VIA DELLO STADIO, 17" .
+
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "GARDOLO" .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 910464" .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA IV NOVEMBRE, 23" .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "S.S. Buonconsiglio Nuoto" .
+
+<http://localhost:8080/source/226> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/226> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 431045" .
+<http://localhost:8080/source/226> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Tennis Club C10 Ass.Sportiva Dilettantistica" .
+<http://localhost:8080/source/226> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/226> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA DELLA ROGGIA" .
+<http://localhost:8080/source/226> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ROVERETO" .
+<http://localhost:8080/source/226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/227> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo Sportivo Comunale" .
+<http://localhost:8080/source/227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/227> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LEVICO" .
+<http://localhost:8080/source/227> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 706892" .
+<http://localhost:8080/source/227> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIALE LIDO" .
+<http://localhost:8080/source/227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/227> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '00:00 - 24:00', 'Tuesday': '00:00 - 24:00', 'Wednesday': '00:00 - 24:00', 'Thursday': '00:00 - 24:00', 'Friday': '00:00 - 24:00', 'Saturday': '00:00 - 24:00', 'Sunday': '00:00 - 24:00'}" .
+<http://localhost:8080/source/227> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+
+<http://localhost:8080/source/228> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ROVERETO" .
+<http://localhost:8080/source/228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/228> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '09:00 - 20:30', 'Tuesday': '09:00 - 20:30', 'Wednesday': '09:00 - 20:30', 'Thursday': '09:00 - 20:30', 'Friday': '09:00 - 20:30', 'Saturday': '09:00 - 19:30', 'Sunday': '09:00 - 19:30'}" .
+<http://localhost:8080/source/228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/228> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA UDINE, 1" .
+<http://localhost:8080/source/228> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/228> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 435440" .
+<http://localhost:8080/source/228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/228> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro Natatorio Comunale di Rovereto" .
+
+<http://localhost:8080/source/229> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ROVERETO" .
+<http://localhost:8080/source/229> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA PIOMARTA, 1" .
+<http://localhost:8080/source/229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/229> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/229> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Palazzetto dello Sport" .
+<http://localhost:8080/source/229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/229> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 438055" .
+<http://localhost:8080/source/229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/229> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+
+<http://localhost:8080/source/230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/230> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIALE DAINO, 74/C" .
+<http://localhost:8080/source/230> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "PIETRAMURATA" .
+<http://localhost:8080/source/230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/230> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 507354" .
+<http://localhost:8080/source/230> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/230> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Boulder City Asd" .
+<http://localhost:8080/source/230> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+
+<http://localhost:8080/source/231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/231> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '09:00 - 13:00', 'Tuesday': '09:00 - 13:00', 'Wednesday': '09:00 - 13:00', 'Thursday': '09:00 - 13:00', 'Friday': '09:00 - 13:00', 'Saturday': '09:00 - 13:00', 'Sunday': '09:00 - 13:00'}" .
+<http://localhost:8080/source/231> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " LOCALITÀ PROMEGHIN" .
+<http://localhost:8080/source/231> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0465 730082" .
+<http://localhost:8080/source/231> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "SAN" .
+<http://localhost:8080/source/231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/231> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/231> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Piscina Acquambiez" .
+<http://localhost:8080/source/231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+
+<http://localhost:8080/source/232> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/232> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA NAZIONI UNITE, 21/B" .
+<http://localhost:8080/source/232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/232> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/232> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 720277" .
+<http://localhost:8080/source/232> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "FOLGARIA" .
+<http://localhost:8080/source/232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/232> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Palasport di Folgaria" .
+
+<http://localhost:8080/source/233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/233> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/233> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 700373" .
+<http://localhost:8080/source/233> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/233> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LEVICO" .
+<http://localhost:8080/source/233> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "S.S.D. Rari Nantes Valsugana a R.L." .
+<http://localhost:8080/source/233> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " PIAZZA GENERALE DALLA CHIESA, 1" .
+<http://localhost:8080/source/233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+
+<http://localhost:8080/source/234> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/234> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 557476" .
+<http://localhost:8080/source/234> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " FRAZIONE MIOLA, 17" .
+<http://localhost:8080/source/234> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Ice Rink Pine' S.r.l." .
+<http://localhost:8080/source/234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/234> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/234> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "BASELGA" .
+
+<http://localhost:8080/source/235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/235> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/235> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA DELLA ROGGIA, 45" .
+<http://localhost:8080/source/235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/235> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '10:00 - 22:00', 'Tuesday': '10:00 - 22:00', 'Wednesday': '10:00 - 22:00', 'Thursday': '10:00 - 22:00', 'Friday': '10:00 - 22:00', 'Saturday': '10:00 - 22:00', 'Sunday': '10:00 - 22:00'}" .
+<http://localhost:8080/source/235> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ROVERETO" .
+<http://localhost:8080/source/235> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "366 5809997" .
+<http://localhost:8080/source/235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/235> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro di Tiro con l'Arco" .
+<http://localhost:8080/source/235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+
+<http://localhost:8080/source/236> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Circolo Tennis Lavis Assoc.Sport.Dilettantistica" .
+<http://localhost:8080/source/236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/236> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "334 8037080" .
+<http://localhost:8080/source/236> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA DEI COLLI, 26" .
+<http://localhost:8080/source/236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/236> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '10:00 - 23:00', 'Tuesday': '10:00 - 23:00', 'Wednesday': '10:00 - 23:00', 'Thursday': '10:00 - 23:00', 'Friday': '10:00 - 23:00', 'Saturday': '10:00 - 23:00', 'Sunday': '10:00 - 23:00'}" .
+<http://localhost:8080/source/236> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LAVIS" .
+<http://localhost:8080/source/236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/236> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+
+<http://localhost:8080/source/237> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ANDALO" .
+<http://localhost:8080/source/237> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/237> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Stadio del Ghiaccio" .
+<http://localhost:8080/source/237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/237> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/237> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIALE DEL PARCO, 1" .
+<http://localhost:8080/source/237> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 585776" .
+<http://localhost:8080/source/237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+
+<http://localhost:8080/source/238> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/238> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "PERGINE" .
+<http://localhost:8080/source/238> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Circolo Tennis Pergine Assoc.Sport.Dilettantistica" .
+<http://localhost:8080/source/238> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 532169" .
+<http://localhost:8080/source/238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/238> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/238> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIALE PETRI, 2" .
+
+<http://localhost:8080/source/239> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "centri e corsi sportivi" .
+<http://localhost:8080/source/239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/239> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/239> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "CIAGO" .
+<http://localhost:8080/source/239> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "392 9094730" .
+<http://localhost:8080/source/239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/239> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " 5, VIA AI SEGRAI" .
+<http://localhost:8080/source/239> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Paintball Park Trento" .
+
+<http://localhost:8080/source/240> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA MARCONI GUGLIELMO, 51" .
+<http://localhost:8080/source/240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/240> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '06:00 - 22:00', 'Tuesday': '07:00 - 22:00', 'Wednesday': '06:00 - 22:00', 'Thursday': '07:00 - 22:00', 'Friday': '06:00 - 22:00', 'Saturday': '08:00 - 20:00', 'Sunday': '08:00 - 20:00'}" .
+<http://localhost:8080/source/240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/240> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 531773" .
+<http://localhost:8080/source/240> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/240> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro Natatorio Pergine Valsugana" .
+<http://localhost:8080/source/240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/240> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "PERGINE" .
+
+<http://localhost:8080/source/241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/241> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " LOCALITA' COSTA, 20" .
+<http://localhost:8080/source/241> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "PERGINE" .
+<http://localhost:8080/source/241> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Sezione Tiro a Segno Nazionale" .
+<http://localhost:8080/source/241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/241> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/241> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/241> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 538413" .
+
+<http://localhost:8080/source/242> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/242> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Aquila Basket Trento 2013 S.r.l." .
+<http://localhost:8080/source/242> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/242> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 437387" .
+<http://localhost:8080/source/242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/242> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " PASSAGGIO CLEMENTEL EZIO, 7" .
+<http://localhost:8080/source/242> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/243> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '14:00 - 16:30', 'Tuesday': '14:00 - 16:30', 'Wednesday': '14:00 - 16:00', 'Thursday': '14:00 - 16:30', 'Friday': '14:00 - 16:30', 'Saturday': '14:00 - 16:30', 'Sunday': '14:00 - 16:30'}" .
+<http://localhost:8080/source/243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/243> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA AL PONTE, 1/A" .
+<http://localhost:8080/source/243> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 534423" .
+<http://localhost:8080/source/243> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "PERGINE" .
+<http://localhost:8080/source/243> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo Ghiaccio di Pergine" .
+<http://localhost:8080/source/243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/243> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+
+<http://localhost:8080/source/244> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "340 7433050" .
+<http://localhost:8080/source/244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/244> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "EGNA" .
+<http://localhost:8080/source/244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/244> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/244> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Tennisclub Dilettanti Laghetti" .
+<http://localhost:8080/source/244> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/244> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA CAURIA, 57" .
+
+<http://localhost:8080/source/245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/245> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 992990" .
+<http://localhost:8080/source/245> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/245> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "A.S.I.S." .
+<http://localhost:8080/source/245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/245> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Comune e servizi comunali" .
+<http://localhost:8080/source/245> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA IV NOVEMBRE, 23/4" .
+<http://localhost:8080/source/245> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "GARDOLO" .
+
+<http://localhost:8080/source/246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/246> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/246> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA MARIGHETTO ANCILLA, 28" .
+<http://localhost:8080/source/246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/246> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/246> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/246> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Aquila Basket Trento 2013 S.r.l." .
+<http://localhost:8080/source/246> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 419794" .
+<http://localhost:8080/source/246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+
+<http://localhost:8080/source/247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/247> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIALE DELLA COSTITUZIONE, 5" .
+<http://localhost:8080/source/247> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/247> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/247> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Aquila Basket Trento 2013 S.r.l." .
+<http://localhost:8080/source/247> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 437435" .
+<http://localhost:8080/source/247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/247> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Aquila Basket Trento 2013 S.r.l." .
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA FERSINA, 11" .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 935181" .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/30> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+
+<http://localhost:8080/source/249> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/249> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA UDINE, 18" .
+<http://localhost:8080/source/249> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ROVERETO" .
+<http://localhost:8080/source/249> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Leno 2001" .
+<http://localhost:8080/source/249> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/249> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 400315" .
+<http://localhost:8080/source/249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+
+<http://localhost:8080/source/250> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 485511" .
+<http://localhost:8080/source/250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/250> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ROVERETO" .
+<http://localhost:8080/source/250> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Istituto Superiore Don Milani - Depero" .
+<http://localhost:8080/source/250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/250> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '08:00 - 22:00', 'Tuesday': '08:00 - 22:00', 'Wednesday': '08:00 - 22:00', 'Thursday': '08:00 - 22:00', 'Friday': '08:00 - 22:00', 'Saturday': '08:00 - 22:00', 'Sunday': '08:00 - 22:00'}" .
+<http://localhost:8080/source/250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/250> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/250> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA BALISTA, 2" .
+
+<http://localhost:8080/source/251> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '09:00 - 12:00', 'Tuesday': '09:00 - 12:00', 'Wednesday': '09:00 - 12:00', 'Thursday': '09:00 - 12:00', 'Friday': '09:00 - 12:00', 'Saturday': '09:00 - 12:00', 'Sunday': '09:00 - 12:00'}" .
+<http://localhost:8080/source/251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/251> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro Ippico" .
+<http://localhost:8080/source/251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/251> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "BASELGA" .
+<http://localhost:8080/source/251> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/251> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "347 0152778" .
+<http://localhost:8080/source/251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/251> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA PALUDI, 22" .
+
+<http://localhost:8080/source/252> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA CANE', 7" .
+<http://localhost:8080/source/252> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 605049" .
+<http://localhost:8080/source/252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/252> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/252> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Impianti sportivi e ricreativi - attrezzature e costruzione" .
+<http://localhost:8080/source/252> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Carli Sport S.r.l." .
+<http://localhost:8080/source/252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/252> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "MEZZOCORONA" .
+<http://localhost:8080/source/252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+
+<http://localhost:8080/source/253> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " PIAZZA GENERALE DALLA CHIESA, 1" .
+<http://localhost:8080/source/253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/253> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/253> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LEVICO" .
+<http://localhost:8080/source/253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/253> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 700373" .
+<http://localhost:8080/source/253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/253> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/253> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro Sportivo" .
+
+<http://localhost:8080/source/254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/254> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "2001 S.R.L." .
+<http://localhost:8080/source/254> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA LUNGO LENO DESTRO, 25/B" .
+<http://localhost:8080/source/254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/254> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/254> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ROVERETO" .
+<http://localhost:8080/source/254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/254> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/254> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 439377" .
+<http://localhost:8080/source/254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+
+<http://localhost:8080/source/255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/255> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/255> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '00:00 - 24:00', 'Tuesday': '00:00 - 24:00', 'Wednesday': '00:00 - 24:00', 'Thursday': '00:00 - 24:00', 'Friday': '00:00 - 24:00', 'Saturday': '00:00 - 24:00', 'Sunday': '00:00 - 24:00'}" .
+<http://localhost:8080/source/255> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LAVARONE" .
+<http://localhost:8080/source/255> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " FRAZIONE GIONGHI, 107" .
+<http://localhost:8080/source/255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/255> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 724146" .
+<http://localhost:8080/source/255> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Circolo Tennis Lavarone A.S.D." .
+
+<http://localhost:8080/source/256> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "FOLGARIA" .
+<http://localhost:8080/source/256> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 720480" .
+<http://localhost:8080/source/256> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/256> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " LOCALITÀ MASO SPILZI" .
+<http://localhost:8080/source/256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/256> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/256> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Golf Club Folgaria" .
+<http://localhost:8080/source/256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/257> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 765255" .
+<http://localhost:8080/source/257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/257> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/257> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "FOLGARIA" .
+<http://localhost:8080/source/257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/257> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA CARDUCCI GIOSUE', 98" .
+<http://localhost:8080/source/257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/257> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/257> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro Ippico Il Salice" .
+
+<http://localhost:8080/source/258> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LEVICO" .
+<http://localhost:8080/source/258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/258> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "339 6768993" .
+<http://localhost:8080/source/258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/258> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/258> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro Equitazione Airone" .
+<http://localhost:8080/source/258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/258> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " LOCALITÀ BARCO, 3" .
+<http://localhost:8080/source/258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/258> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '00:00 - 24:00', 'Tuesday': '00:00 - 24:00', 'Wednesday': '00:00 - 24:00', 'Thursday': '00:00 - 24:00', 'Friday': '00:00 - 24:00', 'Saturday': '00:00 - 24:00', 'Sunday': '00:00 - 24:00'}" .
+
+<http://localhost:8080/source/259> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Piscina Olimpionica" .
+<http://localhost:8080/source/259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/259> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA LUNGO LAGO, 27" .
+<http://localhost:8080/source/259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/259> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/259> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "MOLVENO" .
+<http://localhost:8080/source/259> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 586978" .
+<http://localhost:8080/source/259> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+
+<http://localhost:8080/source/260> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 773337" .
+<http://localhost:8080/source/260> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "RONCEGNO" .
+<http://localhost:8080/source/260> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/260> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo di Golf" .
+<http://localhost:8080/source/260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/260> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/260> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA FERME" .
+
+<http://localhost:8080/source/261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/261> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " PIAZZA DALLA CHIESA CARLO ALBERTO, 1" .
+<http://localhost:8080/source/261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/261> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/261> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LEVICO" .
+<http://localhost:8080/source/261> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/261> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 708312" .
+<http://localhost:8080/source/261> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Azienda Speciale per La Gestione degli Impianti Sportivi del Comune di Trento" .
+
+<http://localhost:8080/source/262> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA NAZIONI UNITE, 21/B" .
+<http://localhost:8080/source/262> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '10:00 - 21:00', 'Tuesday': '10:00 - 21:00', 'Wednesday': '10:00 - 21:00', 'Thursday': '10:00 - 21:00', 'Friday': '10:00 - 21:00', 'Saturday': '15:30 - 20:30', 'Sunday': '15:30 - 20:30'}" .
+<http://localhost:8080/source/262> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro Natatorio Folgaria" .
+<http://localhost:8080/source/262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/262> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/262> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 720058" .
+<http://localhost:8080/source/262> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "FOLGARIA" .
+
+<http://localhost:8080/source/263> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Associaz. Sport. Dilettantistica Tennis Levico Terme" .
+<http://localhost:8080/source/263> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/263> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/263> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " LOCALITA' BELVEDERE, 1" .
+<http://localhost:8080/source/263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/263> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "333 2739341" .
+<http://localhost:8080/source/263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/263> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LEVICO" .
+<http://localhost:8080/source/263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+
+<http://localhost:8080/source/264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/264> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/264> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Associazione Equestre Cavalcailvento" .
+<http://localhost:8080/source/264> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 568267" .
+<http://localhost:8080/source/264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/264> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "CAVEDINE" .
+<http://localhost:8080/source/264> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/264> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " LOCALITÀ SALIN" .
+
+<http://localhost:8080/source/265> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " FRAZIONE SANTA CROCE" .
+<http://localhost:8080/source/265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/265> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "BLEGGIO" .
+<http://localhost:8080/source/265> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "334 2925960" .
+<http://localhost:8080/source/265> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Tennis Club Associazione Sportiva Dilettantistica" .
+<http://localhost:8080/source/265> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/265> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+
+<http://localhost:8080/source/266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/266> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/266> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/266> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA DE GASPERI" .
+<http://localhost:8080/source/266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/266> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 723131" .
+<http://localhost:8080/source/266> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo da calcio La Pineta di Folgaria" .
+<http://localhost:8080/source/266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/266> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "FOLGARIA" .
+
+<http://localhost:8080/source/267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/267> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/267> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '08:00 - 22:00', 'Tuesday': '08:00 - 22:00', 'Wednesday': '08:00 - 22:00', 'Thursday': '08:00 - 22:00', 'Friday': '08:00 - 22:00', 'Saturday': '09:00 - 20:00', 'Sunday': '09:00 - 20:00'}" .
+<http://localhost:8080/source/267> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 431045" .
+<http://localhost:8080/source/267> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA DELLA ROGGIA, 43" .
+<http://localhost:8080/source/267> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Circolo Tennis Rovereto" .
+<http://localhost:8080/source/267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/267> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ROVERETO" .
+
+<http://localhost:8080/source/268> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA LUNGO LENO DESTRO, 25" .
+<http://localhost:8080/source/268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/268> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Circolo Tennis Rovereto Asd" .
+<http://localhost:8080/source/268> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 439377" .
+<http://localhost:8080/source/268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/268> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/268> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "ROVERETO" .
+<http://localhost:8080/source/268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/268> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '07:30 - 22:00', 'Tuesday': '07:30 - 22:00', 'Wednesday': '07:30 - 22:00', 'Thursday': '07:30 - 22:00', 'Friday': '07:30 - 22:00', 'Saturday': '07:30 - 22:00', 'Sunday': '07:30 - 22:00'}" .
+
+<http://localhost:8080/source/269> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/269> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo Sportivo Moar" .
+<http://localhost:8080/source/269> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0464 783179" .
+<http://localhost:8080/source/269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/269> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " FRAZIONE AZZOLINI, 82" .
+<http://localhost:8080/source/269> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LAVARONE" .
+<http://localhost:8080/source/269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/269> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '00:00 - 24:00', 'Tuesday': '00:00 - 24:00', 'Wednesday': '00:00 - 24:00', 'Thursday': '00:00 - 24:00', 'Friday': '00:00 - 24:00', 'Saturday': '00:00 - 24:00', 'Sunday': '00:00 - 24:00'}" .
+<http://localhost:8080/source/269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+
+<http://localhost:8080/source/270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/270> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " LOCALITÀ BEDOLPIAN" .
+<http://localhost:8080/source/270> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "BASELGA" .
+<http://localhost:8080/source/270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/270> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/270> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '00:00 - 24:00', 'Tuesday': '00:00 - 24:00', 'Wednesday': '00:00 - 24:00', 'Thursday': '00:00 - 24:00', 'Friday': '00:00 - 24:00', 'Saturday': '00:00 - 24:00', 'Sunday': '00:00 - 24:00'}" .
+<http://localhost:8080/source/270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/270> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo da calcio Bedolpian" .
+<http://localhost:8080/source/270> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "349 6989956" .
+
+<http://localhost:8080/source/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/5> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 820040" .
+<http://localhost:8080/source/5> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/5> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA PRADISCOLA, 1" .
+<http://localhost:8080/source/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/5> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/5> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '09:00 - 23:00', 'Tuesday': '09:00 - 23:00', 'Wednesday': '09:00 - 23:00', 'Thursday': '09:00 - 23:00', 'Friday': '09:00 - 23:00', 'Saturday': '09:00 - 23:00', 'Sunday': '09:00 - 23:00'}" .
+<http://localhost:8080/source/5> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Circolo Tennis Calisio" .
+
+<http://localhost:8080/source/272> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/272> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " LOCALITÀ BELVEDERE" .
+<http://localhost:8080/source/272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/272> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "LEVICO" .
+<http://localhost:8080/source/272> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Associaz. Sport. Dilettantistica Tennis Levico Terme" .
+<http://localhost:8080/source/272> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '08:00 - 23:00', 'Tuesday': '08:00 - 23:00', 'Wednesday': '08:00 - 23:00', 'Thursday': '08:00 - 23:00', 'Friday': '08:00 - 23:00', 'Saturday': '08:00 - 23:00', 'Sunday': '08:00 - 23:00'}" .
+<http://localhost:8080/source/272> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "333 2739341" .
+
+<http://localhost:8080/source/273> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA UNTERVEGER GIAMBATTISTA, 104" .
+<http://localhost:8080/source/273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/273> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '05:00 - 22:00', 'Tuesday': '05:00 - 22:00', 'Wednesday': '05:00 - 22:00', 'Thursday': '05:00 - 22:00', 'Friday': '05:00 - 22:00', 'Saturday': '05:00 - 20:00', 'Sunday': '05:00 - 20:00'}" .
+<http://localhost:8080/source/273> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/273> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 821284" .
+<http://localhost:8080/source/273> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/273> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Star Club" .
+<http://localhost:8080/source/273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+
+<http://localhost:8080/source/274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/274> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/274> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/274> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA AVISIO, 24" .
+<http://localhost:8080/source/274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/274> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "329 5459087" .
+<http://localhost:8080/source/274> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Impianti sportivi e ricreativi - attrezzature e costruzione" .
+<http://localhost:8080/source/274> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Ecosport Italia S.r.l." .
+
+<http://localhost:8080/source/275> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/275> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/275> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " STRADA DELLE VIOTE, 1" .
+<http://localhost:8080/source/275> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 948032" .
+<http://localhost:8080/source/275> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/275> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Azienda Speciale per La Gestione degli Impianti Sportivi del Comune di Trento" .
+
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Campo di Atletica Leggera Comunale" .
+<http://localhost:8080/source/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 830454" .
+<http://localhost:8080/source/22> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA MACCANI EZIO, 2" .
+
+<http://localhost:8080/source/277> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA MENGUZZATO VEGLIA CLORINDA, 6" .
+<http://localhost:8080/source/277> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/277> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/277> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 390785" .
+<http://localhost:8080/source/277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/277> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/277> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Azienda Speciale per La Gestione degli Impianti Sportivi del Comune di Trento" .
+<http://localhost:8080/source/277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA IV NOVEMBRE, 23/4" .
+<http://localhost:8080/source/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959812" .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{'Monday': '09:00 - 21:00', 'Tuesday': '09:00 - 21:00', 'Wednesday': '09:00 - 21:00', 'Thursday': '09:00 - 21:00', 'Friday': '09:00 - 21:00', 'Saturday': '09:00 - 21:00', 'Sunday': '09:00 - 21:00'}" .
+<http://localhost:8080/source/25> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Centro Sportivo Trento Nord Gardolo" .
+
+<http://localhost:8080/source/279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/279> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/279> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/279> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 391854" .
+<http://localhost:8080/source/279> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/279> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Stadio del ghiaccio Trento" .
+<http://localhost:8080/source/279> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA FERSINA, 2" .
+
+<http://localhost:8080/source/280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/280> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "Centri e corsi sportivi" .
+<http://localhost:8080/source/280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/280> <http://knowdive.disi.unitn.it/etype#has_telephone_GID-34494_Type-17982> "0461 959800" .
+<http://localhost:8080/source/280> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "{}" .
+<http://localhost:8080/source/280> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Azienda Speciale per La Gestione degli Impianti Sportivi del Comune di Trento" .
+<http://localhost:8080/source/280> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> " VIA IV NOVEMBRE . GARDOLO, 23" .
+<http://localhost:8080/source/280> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "TRENTO" .
+<http://localhost:8080/source/280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+
