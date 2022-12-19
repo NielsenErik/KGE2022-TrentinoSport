@@ -1,0 +1,50 @@
+<http://localhost:8080/source/Sambapolis> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/400> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Via della Malpensada, 88" .
+<http://localhost:8080/source/Sambapolis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/400> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-109992> "https://www.operauni.tn.it/palestradiroccia/listino-prezzi/" .
+<http://localhost:8080/source/400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+_:etype_Facility_GID-179821 <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/Sambapolis> .
+<http://localhost:8080/source/Sambapolis> <http://knowdive.disi.unitn.it/etype#ds:PracticeTypeOf_GID-300001> <http://localhost:8080/source/Climbing> .
+<http://localhost:8080/source/400> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Sambapolis" .
+<http://localhost:8080/source/Sambapolis> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Via della Malpensada, 88" .
+<http://localhost:8080/source/400> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "Every day 9:00-23:00" .
+<http://localhost:8080/source/Sambapolis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/Climbing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+_:etype_Facility_GID-179821 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+_:etype_Facility_GID-179821 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/Sambapolis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+<http://localhost:8080/source/400> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+_:etype_Facility_GID-179821 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/Climbing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Intangible> .
+_:etype_Facility_GID-179821 <http://knowdive.disi.unitn.it/etype#ds:isTypeOf_GID-103418> <http://localhost:8080/source/400> .
+<http://localhost:8080/source/Climbing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport_GID-2681> .
+_:etype_Facility_GID-179821 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility_GID-17982> .
+<http://localhost:8080/source/400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<http://localhost:8080/source/Infinity%20Boulder> <http://knowdive.disi.unitn.it/etype#ds:PracticeTypeOf_GID-300001> <http://localhost:8080/source/Bouldering> .
+_:etype_Facility_GID-179821 <http://knowdive.disi.unitn.it/etype#ds:WorkIn_GID-2962_Type-300005> <http://localhost:8080/source/Infinity%20Boulder> .
+<http://localhost:8080/source/401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+<http://localhost:8080/source/401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/401> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Località le Basse, 25" .
+<http://localhost:8080/source/Infinity%20Boulder> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Località le Basse, 25" .
+<http://localhost:8080/source/401> <http://knowdive.disi.unitn.it/etype#has_openingHours_GID-300002_Type-300005> "http://infinityboulder.it/hours-prices/" .
+<http://localhost:8080/source/Bouldering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportFacility_GID-300004> .
+<http://localhost:8080/source/401> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+_:etype_Facility_GID-179821 <http://knowdive.disi.unitn.it/etype#ds:isTypeOf_GID-103418> <http://localhost:8080/source/401> .
+<http://localhost:8080/source/Infinity%20Boulder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://localhost:8080/source/401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/Bouldering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport_GID-2681> .
+<http://localhost:8080/source/Infinity%20Boulder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Organisation> .
+<http://localhost:8080/source/Bouldering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Intangible> .
+<http://localhost:8080/source/401> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-300003> "Infinity Boulder" .
+<http://localhost:8080/source/Infinity%20Boulder> <http://knowdive.disi.unitn.it/etype#has_address_GID-45803_Type-17982> "Trento" .
+<http://localhost:8080/source/401> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-109992> "http://infinityboulder.it/hours-prices/" .
+_:etype_Facility_GID-179821 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+_:etype_Facility_GID-179821 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:Place> .
+<http://localhost:8080/source/Infinity%20Boulder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportOrganisation_GID-300005> .
+_:etype_Facility_GID-179821 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#schema:CivicStructure> .
+_:etype_Facility_GID-179821 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Facility_GID-17982> .
+
